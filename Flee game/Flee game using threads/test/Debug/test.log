@@ -1,0 +1,97 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Escape.vcxproj, test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UI.cpp
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(12): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(106): warning C4305: '+=': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(111): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(126): warning C4305: '+=': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(131): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(146): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(148): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(150): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(157): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(159): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(161): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(177): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(209): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(215): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(228): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(258): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(261): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(264): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(267): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(305): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(311): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(315): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(350): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(353): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(356): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(360): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(371): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(374): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(378): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\ui.cpp(382): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  texturingUtil.cpp
+  FleeGameInterface.cpp
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(283): warning C4129: 'E': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(293): warning C4129: 'p': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(299): warning C4129: 'E': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(309): warning C4129: 'p': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(316): warning C4129: 'E': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(326): warning C4129: 'p': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(333): warning C4129: 'E': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(344): warning C4129: 'p': unrecognized character escape sequence
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleegameinterface.cpp(356): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mazeModel.cpp
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\mazemodel.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\mazemodel.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\mazemodel.cpp(195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\mazemodel.cpp(199): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameLogic.cpp
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(270): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(277): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(291): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(309): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(348): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(351): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(353): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(358): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(363): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(366): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(368): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(534): warning C4305: '=': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(536): warning C4305: '-=': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(554): warning C4305: '=': truncation from 'double' to 'float'
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\gamelogic.cpp(556): warning C4305: '-=': truncation from 'double' to 'float'
+  FleeGameCommons.cpp
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\preferences\microsoft\visual studio\c++ opengl\flee game\test\fleecommons.h(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  test.vcxproj -> D:\preferences\Microsoft\visual studio\C++ openGL\Flee game\Debug\Flee Game.exe
+  test.vcxproj -> D:\preferences\Microsoft\visual studio\C++ openGL\Flee game\Debug\Flee Game.pdb (Partial PDB)
