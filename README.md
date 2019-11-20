@@ -13,5 +13,9 @@ I wanted to check the performance using plain c++ threads instead of event handl
 1) multi-threaded game
 2) using opengl event handlers and timers (recommended)
 
+
+
+[![preview](https://img.youtube.com/vi/1Iph6ac-cDk/0.jpg)](https://youtu.be/1Iph6ac-cDk)
+
 [Preview-video](https://www.facebook.com/mohammedalaa.elkomy/videos/vb.100001207827460/1201521696564746/?type=2&video_source=user_video_tab)
 
