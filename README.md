@@ -1,7 +1,7 @@
 # OpenGL-game--Flee-Game
-This game is a about collecting gems(collect them all before the countdown timer) placed randomly in a maze while adding some evel(colored :D)ghosts as additional complexity. 
+A simple opengl maze (generated automatically) game, collecting gems (placed randomly) before the countdown timer wins. Evel ghosts are added to make it a bit harder :3.
 
-The game is implemented using opengl on C++ where the game maze(organized as grid) is dynamically created using DFS (which visits every grid cell randomly only once keeping previous information in memory).
+The game is implemented using opengl C++ where the maze grid is dynamically created using DFS (which visits every grid cell randomly only once keeping previous information in memory).
 The ghosts are moving randomly in the maze (there's no AI involved left as future work).
 
 ### The game has two modes
@@ -10,7 +10,7 @@ The ghosts are moving randomly in the maze (there's no AI involved left as futur
 
 ### The game has two implementation versions:
 I wanted to check the performance using plain c++ threads instead of event handlers provided by opengl system
-1) multi-threaded game
+1) multi-threaded implementation
 2) using opengl event handlers and timers (recommended)
 
 
