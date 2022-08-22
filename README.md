@@ -15,7 +15,7 @@ I wanted to check the performance using plain c++ threads instead of event handl
 1) multi-threaded implementation
 2) using opengl event handlers and timers (recommended)
 
-Caveat: Use visual studio c++ compiler, g++ won't work.
+**Caveat**: Use visual studio c++ compiler, g++ won't work.
 
 ## Preview Video
 [![preview](https://img.youtube.com/vi/1Iph6ac-cDk/0.jpg)](https://youtu.be/1Iph6ac-cDk)
